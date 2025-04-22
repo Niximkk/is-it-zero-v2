@@ -1,0 +1,12 @@
+{
+  "name": "is-it-zero-v2-badass",
+  "version": "2.0.0 YEAH V2 BABYYY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nix",
+  "license": "ISC",
+  "description": "I will kill myself soon"
+}
