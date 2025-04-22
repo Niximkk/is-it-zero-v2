@@ -10,7 +10,7 @@ node .
 
 ---
 
-![alt text](https://github.com/niximkk/is-it-zero/blob/main/IsItPreview.mp4?raw=true)
+![alt text](https://github.com/niximkk/is-it-zero-v2/blob/main/IsItPreview.mp4?raw=true)
 
 <p align="center">
   <a href="https://emoji.gg/emoji/5349-hellokittybyebye">
